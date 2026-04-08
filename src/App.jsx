@@ -12,17 +12,31 @@ import ViewUsers from './components/ViewUsers/ViewUsers.jsx'
 
 const App = ()=>{
   return <div>
-    {/* <h1 className='colors'>mukha</h1>
-    <First/>
+    <h1 className='colors'>mukha</h1>
+
+
+    {/* ПЕРВАЯ ДОМАШКА */}
+    {/* <First/>
     <Second/>
-    <Third/>
-    <Colors/>
+    <Third/> */}
+
+
+    {/* <Colors/>
     <MyNumbers/>
-    <MyDress/>
-    <ViewUsers/> */}
+    <MyDress/> */}
+
+
+    {/* ВТОРАЯ ДОМАШКА */}
+    {/* <ViewUsers/> */}
+
+
+    {/* Третий урок */}
     {/* <Counter/> */}
     {/* <Roles/> */}
-    <Products/>
+
+
+    {/* ТРЕТЬЯ ДОМАШКА */}
+    {/* <Products/> */}
 
   </div>
 }
