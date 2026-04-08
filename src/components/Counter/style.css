@@ -1,0 +1,21 @@
+.main_block {
+height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.main_block__inner {
+  background: gray;
+  width: 200px;
+  height: 140px;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+}
+
+span {
+  color: #222;
+}
